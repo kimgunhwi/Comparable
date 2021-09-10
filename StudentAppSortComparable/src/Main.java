@@ -13,6 +13,7 @@ public class Main {
 		al.add(s2);
 		al.add(new Student(103, "Park", 25));
 		
+		//additional
 		al.add(new Student(104, "Bin", 20));
 		al.add(new Student(105, "You", 20));
 		al.add(new Student(106, "Cha", 20));
